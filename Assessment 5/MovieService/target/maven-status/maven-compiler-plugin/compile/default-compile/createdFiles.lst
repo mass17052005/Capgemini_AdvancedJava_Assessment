@@ -1,0 +1,4 @@
+com\capgemini\movie\controller\MovieController.class
+com\capgemini\movie\service\MovieService.class
+com\capgemini\movie\MovieServiceApplication.class
+com\capgemini\movie\model\Movie.class

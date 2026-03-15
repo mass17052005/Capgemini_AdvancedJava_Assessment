@@ -1,0 +1,6 @@
+com\capgemini\movie\Feign\Movie.class
+com\capgemini\movie\model\Booking.class
+com\capgemini\movie\service\BookingService.class
+com\capgemini\movie\BookingServiceApplication.class
+com\capgemini\movie\controller\BookingController.class
+com\capgemini\movie\Feign\MovieClient.class
